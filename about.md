@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About this Website
 ---
 
 This is to make sure that the navigation set-up works?
