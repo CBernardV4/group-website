@@ -11,3 +11,5 @@ Also, here's an additional blurb:
 {{ site.description }}
 
 I forgot - here's [a link towards the README](README.md), if you're THAT desperate for it.
+
+Hopefully now, the footer and header should appear after changing the layout name...
