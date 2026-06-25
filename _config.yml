@@ -1,3 +1,16 @@
 description: "This is a project made to better understand how to build websites using tools like YAML and Jekyll"
 email: "ecb6180@umoncton.ca"
 github: "https://github.com/CBernardV4"
+team_members:
+  -
+    name: "Sarah Becker"
+    role: "project lead"
+    start_date: "2016-02-01"
+  -
+    name: "Jane Smith"
+    role: maintainer
+    start_date: "2018-03-15"
+  -
+    name: "Albert Hamilton"
+    role: editor
+    start_date: "2017-12-01"
