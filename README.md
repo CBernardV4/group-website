@@ -30,3 +30,5 @@ Hi, here's some text that's ~~striked through~~, and some more that's [attached 
 We can even add images to this thang!
 
 ![Image](https://carpentries.org/thecarpentries-opengraph.png)
+
+{% include footer.html %}
