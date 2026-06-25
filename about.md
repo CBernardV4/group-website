@@ -1,9 +1,7 @@
-
-{% include navigation.html %}
-
-Title
+---
+layout: default
 ---
 
-This is to make sure that the navigation set-up works?
+# Title
 
-{% include footer.html %}
+This is to make sure that the navigation set-up works?
