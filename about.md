@@ -10,5 +10,5 @@ This is just to ensure that the layout works nicely.
 {% for team_member in site.team_members %}
 - {{ team_member.name }}. **Joined on** {{ team_member.start_date}}
   - Role: {{ team_member.role | capitalize }}
-{% end for %}
+{% endfor %}
 <!-- Comment here -->
