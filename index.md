@@ -1,4 +1,5 @@
-layout: default
+---
+layout: starter
 ---
 
 # BUILDING WEBSITES IS A PAIN
