@@ -1,5 +1,7 @@
----
----
+
 {% include navigation.html %}
 
-this is to make sure that the navigation set-up works?
+Title
+---
+
+This is to make sure that the navigation set-up works?
