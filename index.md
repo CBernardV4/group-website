@@ -13,3 +13,8 @@ Also, here's an additional blurb:
 I forgot - here's [a link towards the README](README.md), if you're THAT desperate for it.
 
 Hopefully now, the footer and header should appear after changing the layout name...
+
+## List of Blog Posts:
+{% for post in site.blogposts %}
+- {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
